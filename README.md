@@ -19,6 +19,9 @@ Este e-book explora o impacto revolucionário das IAs generativas em nosso dia a
 - **Capa Atraente**: Uma capa moderna e futurista que capta a essência do tema discutido no e-book.
 - **Divulgação**: O projeto foi compartilhado nas redes sociais, gerando engajamento e discussão sobre o tema das IAs generativas.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar um e-book sobre um tema tão atual e relevante foi uma experiência enriquecedora. A utilização de IAs generativas não só facilitou o processo criativo, mas também exemplificou na prática o poder dessas tecnologias. O desafio foi manter o conteúdo acessível e interessante, enquanto explorava as complexidades e as possibilidades futuras das IAs generativas.
 
+## Link para o ebook
+
+https://docs.google.com/document/d/15oANybdspIgef74LlCvv28-7a3Z--9zJUI8Lm70wpmg/edit?usp=sharing
